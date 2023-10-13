@@ -4,7 +4,8 @@ MADDPG-MI is a multi-agent reinforcement learning algorhtim proposed in [IET Gen
 
 ## Corresponding algorithm
 
-MADDPG: https://github.com/openai/maddpg
+* MADDPG: https://github.com/openai/maddpg
+* VDN, QMIX: https://github.com/starry-sky6688/MARL-Algorithms
 
-VDN, QMIX: https://github.com/starry-sky6688/MARL-Algorithms
+## Train & Eval
 
